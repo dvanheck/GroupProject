@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1412648074 source:e:\c++_workspace\csgo_cratesim\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1411966472 source:e:\c++_workspace\csgo_cratesim\src\crate.cpp
+	"Crate.h"
+
+1411968178 e:\c++_workspace\csgo_cratesim\include\crate.h
+
+1411964396 source:e:\c++_workspace\csgo_cratesim\src\lootlist.cpp
+	"LootList.h"
+
+1412005256 e:\c++_workspace\csgo_cratesim\include\lootlist.h
+
+1411963650 source:e:\c++_workspace\csgo_cratesim\src\weapon.cpp
+	"Weapon.h"
+
+1411962592 e:\c++_workspace\csgo_cratesim\include\weapon.h
+
+1411962872 source:j:\c++_workspace\csgo_cratesim\src\crate.cpp
+	"Crate.h"
+
+1412003514 j:\c++_workspace\csgo_cratesim\include\crate.h
+
+1411964396 source:j:\c++_workspace\csgo_cratesim\src\lootlist.cpp
+	"LootList.h"
+
+1412005256 j:\c++_workspace\csgo_cratesim\include\lootlist.h
+
+1411963650 source:j:\c++_workspace\csgo_cratesim\src\weapon.cpp
+	"Weapon.h"
+
+1411962592 j:\c++_workspace\csgo_cratesim\include\weapon.h
+
+1418669226 source:j:\c++_workspace\csgo_cratesim\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1418920348 source:k:\c++_workspace\csgo_cratesim\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<fstream>
+
